@@ -1,0 +1,10 @@
+* http://spark.apache.org/developer-tools.html
+* http://blogs.perficient.com/delivery/blog/2015/06/04/how-to-configure-eclipse-for-spark-application-in-the-cluster/
+* http://www.devinline.com/2016/01/apache-spark-setup-in-eclipse-scala-ide.html
+* http://www.ai.sri.com/~spark/eclipse/doc/spark-ide-install.html
+* http://learningapachespark.blogspot.com/2015/03/12-how-to-run-spark-with-eclipse-and.html
+* http://stackoverflow.com/questions/22639137/how-to-run-simple-spark-app-from-eclipse-intellij-ide
+* http://stackoverflow.com/questions/29321237/running-spark-application-from-eclipse
+* http://www.beingsoftwareprofessional.com/2016/02/15/apache-spark-building-applications-with-maven-eclipse/
+* http://www.allprogrammingtutorials.com/tutorials/developing-java-applications-in-spark.php
+* http://simon-laws.blogspot.com/2015/07/biginsights-4-creating-eclipsespark.html

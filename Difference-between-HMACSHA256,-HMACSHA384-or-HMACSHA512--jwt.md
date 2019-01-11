@@ -1,0 +1,2 @@
+- https://stackoverflow.com/questions/18080445/difference-between-hmacsha256-and-hmacsha512
+- https://stackoverflow.com/questions/38472926/hmac-256-vs-hmac-512-jwt-signature-encryption

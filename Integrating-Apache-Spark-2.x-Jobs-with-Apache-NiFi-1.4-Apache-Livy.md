@@ -1,0 +1,1 @@
+https://community.hortonworks.com/content/kbentry/148730/integrating-apache-spark-2x-jobs-with-apache-nifi.html?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BnZ2HM%2Br8SjWhT2mMAm9ixw%3D%3D

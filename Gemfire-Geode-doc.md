@@ -1,0 +1,1 @@
+https://cwiki.apache.org/confluence/display/GEODE/Troubleshooting+Garbage+Collection+Pauses

@@ -1,0 +1,2 @@
+- https://stackoverflow.com/questions/39909419/jwt-vs-oauth-authentication
+- https://softwareengineering.stackexchange.com/questions/298973/rest-api-security-stored-token-vs-jwt-vs-oauth

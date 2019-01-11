@@ -1,0 +1,1 @@
+https://medium.com/@sabman/loading-geojson-data-in-apache-spark-f7a52390cdc9
