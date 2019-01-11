@@ -1,0 +1,1 @@
+http://nordicapis.com/9-common-errors-made-during-api-testing/

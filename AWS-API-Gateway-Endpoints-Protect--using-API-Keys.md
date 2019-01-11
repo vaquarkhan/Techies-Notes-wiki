@@ -1,0 +1,1 @@
+- https://datanextsolutions.com/blog/protect-aws-api-gateway-endpoints-using-api-keys/

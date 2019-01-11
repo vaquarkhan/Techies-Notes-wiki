@@ -1,0 +1,1 @@
+https://www.linkedin.com/pulse/blockchain-technology-very-special-kind-distributed-meunier?trk=hp-feed-article-title-like

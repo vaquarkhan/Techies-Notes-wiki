@@ -1,0 +1,1 @@
+- https://lobster1234.github.io/2018/04/14/amazon-api-gateway-ip-whitelisting/

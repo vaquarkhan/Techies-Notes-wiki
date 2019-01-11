@@ -1,0 +1,1 @@
+https://medium.com/@mrpowers/dealing-with-null-in-spark-cfdbb12f231e

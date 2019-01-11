@@ -1,0 +1,1 @@
+https://databricks.com/blog/2016/05/23/apache-spark-as-a-compiler-joining-a-billion-rows-per-second-on-a-laptop.html?utm_campaign=Databricks&utm_content=44025149&utm_medium=social&utm_source=linkedin

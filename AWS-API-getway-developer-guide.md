@@ -1,0 +1,1 @@
+- https://github.com/awsdocs/amazon-api-gateway-developer-guide/tree/master/doc_source
