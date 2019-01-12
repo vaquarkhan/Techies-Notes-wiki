@@ -1,3 +1,18 @@
+* [GCP Blogs](https://github.com/vaquarkhan/Techies-Notes-wiki/blob/master/557-GCP--blogs.md)
+* [9-Common-Errors-Made-During-API-Testing.md	](https://github.com/vaquarkhan/Techies-Notes-wiki/blob/master/9-Common-Errors-Made-During-API-Testing.md	)
+* [A-Comprehensive-Analysis](https://github.com/vaquarkhan/Techies-Notes-wiki/blob/master/A-Comprehensive-Analysis.md)
+* [access-Broadcast-Variables-in-Spark-java](https://github.com/vaquarkhan/Techies-Notes-wiki/blob/master/access-Broadcast-Variables-in-Spark-java.md)
+* [ACCUMULATORS](https://github.com/vaquarkhan/Techies-Notes-wiki/blob/master/ACCUMULATORS.md)
+* [Aggregating-over-sorted-data](https://github.com/vaquarkhan/Techies-Notes-wiki/blob/master/Aggregating-over-sorted-data.md)
+* [Amazon-Cognito](https://github.com/vaquarkhan/Techies-Notes-wiki/blob/master/Amazon-Cognito.md)
+* [Angular-2](https://github.com/vaquarkhan/Techies-Notes-wiki/blob/master/Angular-2.md)
+* [Apache--streaming-performance](https://github.com/vaquarkhan/Techies-Notes-wiki/blob/master/Apache--streaming-performance.md)
+
+
+* [structured-streaming]-How-to-remove-outdated-data-when-use-Window-Operations.md
+* [Apache Spark ACCUMULATORS](https://github.com/vaquarkhan/Techies-Notes-wiki/blob/master/ACCUMULATORS.md)
+* [AWS-API-Gateway-Endpoints-Protect--using-API-Keys](https://github.com/vaquarkhan/Techies-Notes-wiki/blob/master/AWS-API-Gateway-Endpoints-Protect--using-API-Keys.md	)
+
 * [151 Apache-Flink-Traning](https://github.com/vaquarkhan/Techies-Notes-wiki/blob/master/Apache-Flink-Traning.md)
 * [Apache-Kafaka-install-on-ubantu-and-create-topic.md ](https://github.com/vaquarkhan/Techies-Notes-wiki/blob/master/Apache-Kafaka-install-on-ubantu-and-create-topic.md)
 * [Apache-Kafka---Integration-With-Spark-Java.md ](https://github.com/vaquarkhan/Techies-Notes-wiki/blob/master/Apache-Kafka---Integration-With-Spark-Java.md
