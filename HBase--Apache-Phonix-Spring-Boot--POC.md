@@ -147,23 +147,23 @@ Phoenix SQL interface https://phoenix.apache.org/Phoenix-in-15-minutes-or-less.h
 Example
 ----------------------------------------------------------------
 
-package com.khan.vaquar;
+   package com.khan.vaquar;
 
-import java.math.BigDecimal;
-import java.sql.ResultSet;
-import java.sql.SQLException;
-import java.util.List;
-import java.util.Set;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.factory.annotation.Value;
-import org.springframework.jdbc.core.RowMapper;
-import org.springframework.jdbc.core.namedparam.MapSqlParameterSource;
-import org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate;
-import org.springframework.stereotype.Repository;
-import com.khan.vaquar.domain.TestPOJO;
+    import java.math.BigDecimal;
+    import java.sql.ResultSet;
+    import java.sql.SQLException;
+    import java.util.List;
+    import java.util.Set;
+    import org.springframework.beans.factory.annotation.Autowired;
+    import org.springframework.beans.factory.annotation.Value;
+    import org.springframework.jdbc.core.RowMapper;
+    import org.springframework.jdbc.core.namedparam.MapSqlParameterSource;
+    import org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate;
+    import org.springframework.stereotype.Repository;
+    import com.khan.vaquar.domain.TestPOJO;
 
-@Repository
-public class HbasePhonixRepository {
+   @Repository
+   public class HbasePhonixRepository {
 	
 	@Value("${phoenix.table-name}")
 	private String tableName;
